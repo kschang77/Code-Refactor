@@ -5,7 +5,7 @@ Homework 1 Refactor: refactoring Horiseon Website for accessibility and semantic
 
 ## Getting Started
 
-URL is at ______
+URL is at https://github.com/kschang77/Code-Refactor
 
 ### Prerequisites
 
@@ -24,7 +24,7 @@ No Installation Needed
 
 ## Deployed Link
 
-* [See Live Site](#)
+* [See Live Site](https://kschang77.github.io/Code-Refactor/)
 
 
 ## Authors
