@@ -1,6 +1,7 @@
-# Homework1
+# Code Refactor Project
 
-Homework 1 Refactor: refactoring Horiseon Website for accessibility and semantic web standards. 
+Refactoring Horiseon Website for accessibility and semantic web standards, by incorporating semantic HTML5 tags properly, 
+adding meta tags, adding ALT text to images, adding reader tags when appropirate, and so on. 
 
 
 ## Getting Started
@@ -25,7 +26,6 @@ No Installation Needed
 ## Deployed Link
 
 * [See Live Site](https://kschang77.github.io/Code-Refactor/)
-
 
 ## Authors
 
